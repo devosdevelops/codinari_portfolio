@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 400 400">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ee3f8d;
+      }
+
+      .cls-2 {
+        fill: #f7b4cd;
+      }
+
+      .cls-3 {
+        fill: #851b4d;
+      }
+
+      .cls-4 {
+        fill: #a0dcf0;
+      }
+
+      .cls-5 {
+        fill: #f7b4ce;
+      }
+
+      .cls-6 {
+        fill: #ee3c8e;
+      }
+
+      .cls-7 {
+        fill: #3a2747;
+      }
+    </style>
+    <symbol id="New_Symbol" data-name="New Symbol" viewBox="0 0 13.07 10.6">
+      <path class="cls-2" d="m.16,9.1C1.63,6.8,4.7,2.5,6.2.4c.41-.57,1.27-.53,1.63.08l5.1,8.64c.38.65-.09,1.47-.84,1.47H.98c-.77,0-1.24-.85-.83-1.5Z"/>
+    </symbol>
+    <symbol id="New_Symbol_12" data-name="New Symbol 12" viewBox="0 0 9.02 9.02">
+      <circle class="cls-3" cx="4.51" cy="4.51" r="4.51"/>
+    </symbol>
+    <symbol id="New_Symbol_15" data-name="New Symbol 15" viewBox="0 0 9.49 7.16">
+      <path class="cls-4" d="m7.61,7.16H.56c-.37,0-.64-.48-.53-.95L1.35.52c.07-.31.29-.52.53-.52h7.05c.37,0,.64.48.53.95l-1.33,5.7c-.07.31-.29.52-.53.52Z"/>
+    </symbol>
+    <symbol id="New_Symbol_18" data-name="New Symbol 18" viewBox="0 0 9.49 7.16">
+      <path class="cls-6" d="m7.61,7.16H.56c-.37,0-.64-.48-.53-.95L1.35.52c.07-.31.29-.52.53-.52h7.05c.37,0,.64.48.53.95l-1.33,5.7c-.07.31-.29.52-.53.52Z"/>
+    </symbol>
+    <symbol id="New_Symbol_2" data-name="New Symbol 2" viewBox="0 0 13.07 10.6">
+      <path class="cls-1" d="m.16,9.1C1.63,6.8,4.7,2.5,6.2.4c.41-.57,1.27-.53,1.63.08l5.1,8.64c.38.65-.09,1.47-.84,1.47H.98c-.77,0-1.24-.85-.83-1.5Z"/>
+    </symbol>
+    <symbol id="New_Symbol_6" data-name="New Symbol 6" viewBox="0 0 8.17 9.34">
+      <polygon class="cls-5" points="8.17 6.93 4.17 9.34 .08 7.08 0 2.41 4 0 8.09 2.26 8.17 6.93"/>
+    </symbol>
+    <symbol id="New_Symbol_8" data-name="New Symbol 8" viewBox="0 0 8.17 9.34">
+      <polygon class="cls-6" points="8.17 6.93 4.17 9.34 .08 7.08 0 2.41 4 0 8.09 2.26 8.17 6.93"/>
+    </symbol>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect class="cls-7" width="400" height="400"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <g>
+      <use width="9.49" height="7.16" transform="translate(35.2 31.05) rotate(27.63)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(322.83 79.88) rotate(-4.3) scale(1.51)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(227.93 288.78) rotate(-35.96) scale(.77)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(89.42 227.23) rotate(-24.64)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(256.52 375.08) rotate(-32.8) scale(.97)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(36.65 344.85) rotate(30.37) scale(1.24)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(158.98 105.5) rotate(42.36) scale(1.39)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(374.31 306.43) rotate(-7.17)" xlink:href="#New_Symbol_15"/>
+      <use width="9.49" height="7.16" transform="translate(203.58 35.54) rotate(-48.19) scale(1.02)" xlink:href="#New_Symbol_15"/>
+    </g>
+  </g>
+  <g id="Layer_3" data-name="Layer 3">
+    <g>
+      <use width="13.07" height="10.6" transform="translate(25.22 69.19) rotate(14.53)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(330.75 26.26) rotate(-4.61)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(318.46 189.46) rotate(-37.61)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(52.69 208.56) rotate(-84.39)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(344.74 358.68) rotate(-23.76)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(175.2 328.82) rotate(13.06)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(58.48 368.36) rotate(2.03)" xlink:href="#New_Symbol_2"/>
+      <use width="13.07" height="10.6" transform="translate(182.2 206.89) rotate(-60.54)" xlink:href="#New_Symbol_2"/>
+    </g>
+  </g>
+  <g id="Layer_4" data-name="Layer 4">
+    <g>
+      <use width="8.17" height="9.34" transform="translate(372.82 238.79) rotate(.46) scale(1 .97) skewX(-.03)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(26.63 268.51) rotate(24.18) scale(1 .98) skewX(-1.19)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(185.21 148.46) rotate(35.33) scale(.99) skewX(-1.5)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(54.8 93.03) rotate(-88.02) scale(.97 1) skewX(.11)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(105.07 140.64) rotate(63.31) scale(.98 .99) skewX(-1.28)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(274.45 105.29) rotate(-72.11) scale(.98 1) skewX(.93)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(279.07 192.43) rotate(18.07) scale(1 .98) skewX(-.94)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(322.82 359.48) rotate(9.09) scale(1 .97) skewX(-.5)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(381.34 385.05) scale(1 .97)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(96.59 338.88) rotate(-15.35) scale(1 .97) skewX(.81)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(130.75 387.98) rotate(13.43) scale(1 .97) skewX(-.72)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(4.72 128.73) rotate(-23.92) scale(1 .98) skewX(1.18)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(65.91 255.62) rotate(49.46) scale(.98) skewX(-1.57)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(128.06 8.42) rotate(-.66) scale(1 .97) skewX(.04)" xlink:href="#New_Symbol_6"/>
+      <use width="8.17" height="9.34" transform="translate(263.66 306.06) rotate(3.71) scale(1 .97) skewX(-.21)" xlink:href="#New_Symbol_6"/>
+    </g>
+  </g>
+  <g id="Layer_5" data-name="Layer 5">
+    <g>
+      <use width="9.02" height="9.02" transform="translate(338.44 124.35) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(175.06 52.71) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(319.83 308.88) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(102.75 309.19) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(264.79 381.58) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(18.88 316.88) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(44.21 135.86) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(132.12 247.91) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(77.09 20.93) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(255.19 56.9) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(269.44 177.24) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(325.78 282.97) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="9.02" height="9.02" transform="translate(362.05 162.97) scale(.98 1)" xlink:href="#New_Symbol_12"/>
+      <use width="13.07" height="10.6" transform="translate(367.84 41.56) scale(.98 1)" xlink:href="#New_Symbol"/>
+      <use width="13.07" height="10.6" transform="translate(79.98 67.46) scale(.98 1)" xlink:href="#New_Symbol"/>
+      <use width="13.07" height="10.6" transform="translate(184.3 376.05) scale(.98 1)" xlink:href="#New_Symbol"/>
+      <use width="13.07" height="10.6" transform="translate(184.22 254.26) scale(.98 1)" xlink:href="#New_Symbol"/>
+      <use width="9.49" height="7.16" transform="translate(277.18 272.09) rotate(-48.13) scale(.99) skewX(-1.07)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(59.61 160.88) rotate(27.2) scale(.99 1) skewX(.88)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(135.9 35.81) rotate(-4.05) scale(.98 1) skewX(-.15)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(133.75 369.06) rotate(33.07) scale(.99) skewX(.99)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(385.12 197.34) rotate(9.96) scale(.98 1) skewX(.37)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(260.1 7.95) rotate(-24.62) scale(.98 1) skewX(-.82)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(1.44 60.11) rotate(-46.01) skewX(-1.08)" xlink:href="#New_Symbol_18"/>
+      <use width="9.49" height="7.16" transform="translate(18.38 387.84) rotate(1.71) scale(.98 1) skewX(.06)" xlink:href="#New_Symbol_18"/>
+    </g>
+    <g>
+      <use width="8.17" height="9.34" transform="translate(212.4 141.67)" xlink:href="#New_Symbol_8"/>
+      <use width="8.17" height="9.34" transform="translate(239.47 245.83)" xlink:href="#New_Symbol_8"/>
+      <use width="8.17" height="9.34" transform="translate(131.11 234.63)" xlink:href="#New_Symbol_8"/>
+      <use width="8.17" height="9.34" transform="translate(144.52 309.63)" xlink:href="#New_Symbol_8"/>
+      <use width="8.17" height="9.34" transform="translate(109.53 105.25)" xlink:href="#New_Symbol_8"/>
+      <use width="8.17" height="9.34" transform="translate(126.42 182.6)" xlink:href="#New_Symbol_8"/>
+    </g>
+  </g>
+</svg>
