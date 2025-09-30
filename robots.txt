@@ -2,7 +2,5 @@ User-Agent: *
 Disallow: 
 Disallow: /nl/error404.html
 Disallow: /en/error404.html
-Allow: /nl/index.html
-Allow: /en/index.html
-
-Sitemap: http://ben.binnenbeeld.be/codinari/sitemap.xml
+Disallow: /cgi-bin/
+Sitemap: https://devosdevelops.dev/sitemap.xml
